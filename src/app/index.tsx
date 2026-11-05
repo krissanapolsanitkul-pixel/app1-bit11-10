@@ -5,7 +5,7 @@ export default function App(){
     return (
 
         <View style={myStyle.container}>
-            <Text style={myStyle.title}>kandanai</Text>
+            <Text style={myStyle.title}>kandanai thalad</Text>
 
             <Image 
                 source={require('@/assets/images/hamster1.jpg')}
