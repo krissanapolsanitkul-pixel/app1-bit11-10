@@ -17,16 +17,6 @@ export default function App(){
                     borderColor: "lightblue",
                 }}
             />
-            <Image 
-                source={{uri:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ZPgR5pYHu_bc5jOQzNosh6V3IdhbL7Trfsgyq_TDVg&s=10"}}
-                style={{
-                    width: 200,
-                    height: 200,
-                    borderRadius: 100,
-                    borderWidth: 10,
-                    borderColor: "lightblue",
-                }}
-            />
             <View style={{flexDirection: "row"}}>
                 <Text>Hamster </Text>
                 <Text>Cat </Text>
