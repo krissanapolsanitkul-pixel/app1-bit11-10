@@ -27,7 +27,7 @@ export default function App() {
       <View style={homeStyle.ga}>
         <Text style={{ margin: 5 }}> ห้อง BIT.1/1 เลขที่10  </Text>
         <Text style={{ margin: 5 }}> Email: krissanapol.sanitkul@e-tech.ac.th </Text>
-        <Text style={{ margin: 5 }}> Phone: 06x-xxx-xxxx </Text>
+        <Text style={{ margin: 5 }}> Phone: 06x-xxx-xxxxx </Text>
       </View>
 
       <Text style={{ fontSize: 25, fontWeight: 700, margin: 5 }}>ภาพกิจกรรม</Text>
